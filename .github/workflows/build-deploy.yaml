@@ -4,7 +4,7 @@ on:
   # Always test on pull request
   pull_request: []
 
-  # Deploy on merge to main
+  # Deploy on merge to main or master
   push:
     branches:
       - main
